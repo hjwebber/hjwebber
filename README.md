@@ -8,7 +8,7 @@
 - 📫 How to reach me **hjwebber97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="" Girl Coding" width="500" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left">
     <a href="https://twitter.com/haileyjocodes" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
