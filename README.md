@@ -40,4 +40,3 @@
             alt="react" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjwebber&" alt="hjwebber" /></p>
