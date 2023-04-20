@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, React, MongoDB, Python**
 
-- 📫 How to reach me **hjwebber97@gmail.com**
+- 📫 How to reach me **haileyjwebber@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
