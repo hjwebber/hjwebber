@@ -3,7 +3,7 @@
     professional background in Community and Social Services. I also run a handmade swimwear business, which is what
     sparked my passion for web development.</h3>
 
-- 🌱 I’m currently learning **Node, React, MongoDB, Python**
+- 🌱 I’m currently learning **React, Python**
 
 - 📫 How to reach me **haileyjwebber@gmail.com**
 
